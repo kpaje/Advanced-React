@@ -30,8 +30,8 @@ class CreateItem extends Component {
 	state = {
 		title: " CreateItemMutation",
 		description: "CreateItemMutation",
-		image: "CreateItemMutation.jpg",
-		largeImage: "CreateItemMutation.jpg",
+		image: "",
+		largeImage: "",
 		price: 1243
 	};
 
